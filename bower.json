@@ -1,0 +1,19 @@
+{
+  "name": "ng-web-core",
+  "version": "0.0.1",
+  "authors": [
+    "aram mkrtchyan"
+  ],
+  "description": "core project for ng-web",
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "angular": "~1.2.19"
+  }
+}
